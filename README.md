@@ -1,8 +1,9 @@
-Columns in script.py:
+
 
 <h2>What this project does:</h2>
 <h2>Ascended the data file .csv by First Name column alphabetically</h2>
 
+<i>Columns in script.py</i>
 <ol>
 <li>Index</li>
 <li>Customer Id</li>
