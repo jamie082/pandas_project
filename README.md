@@ -13,3 +13,5 @@ Columns in script.py:
 <p>Email</p>
 <p>Subscription Date</p>
 <p>Website</p>
+
+<p>Ascended the data file .csv by First Name column alphabetically</p>
