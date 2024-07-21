@@ -1,17 +1,18 @@
 Columns in script.py:
 
+<h2>What this project does:</h2>
+<h2>Ascended the data file .csv by First Name column alphabetically</h2>
 
-<p>Index</p>
-<p>Customer Id</P>
-<p>First Name</p>
-<p>Last Name</p>
-<p>Company</p>
-<p>City</p>
-<p>Country</p>
-<p>Phone 1</p>
-<p>Phone 2</p>
-<p>Email</p>
-<p>Subscription Date</p>
-<p>Website</p>
+<ol>Index</ol>
+<ol>Customer Id</ol>
+<ol>First Name</ol>
+<ol>Last Name</ol>
+<ol>Company</ol>
+<ol>City</ol>
+<ol>Country</ol>
+<ol>Phone 1</ol>
+<ol>Phone 2</ol>
+<ol>Email</ol>
+<ol>Subscription Date</ol>
+<ol>Website</ol>
 
-<p>Ascended the data file .csv by First Name column alphabetically</p>
